@@ -1,7 +1,6 @@
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <h2>🔨 Once I've used 🔨</h2>
-    <div style="display: flex; flex-direction: row; justify-content: center; gap: 3px;">
-        <!-- Backend -->
+<div style="text-align: center;">
+    <h2>Technical Stack</h2>
+    <div style="display: flex; justify-content: center; margin-bottom: 10px;">
         <div>
             <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
             <img src="https://img.shields.io/badge/Sklearn-ffffff?style=for-the-badge&logo=Scikit-learn&logoColor=red">
@@ -22,7 +21,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
 	<h2>📞 Contact 📞</h2>
-    <div style="display: flex; flex-direction: row; justify-content: center;">
+    <div style="display: flex; justify-content: center; margin-bottom: 10px;">
         <a href="mailto:juatis96@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" style="margin-right: 3px;"> 
         </a>
